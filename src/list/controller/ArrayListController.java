@@ -11,11 +11,13 @@ public class ArrayListController
 	public ArrayListController()
 	{
 		firstWords = new ArrayList<String>();
+		popupDisplay = new ListsViewer arrayDisplay;
 	}
 	
 	public void start()
 	{
 		firstWords.add("adfasfsadfjsdlkfjdl;kfjsdak;ls");
+		firstWords.add("babababababaababab");
 		displayList();
 	}
 	
