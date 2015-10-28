@@ -27,6 +27,17 @@ public class ArrayListController
 		showOtherLoop();
 	}
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	private void displayList()
 	{
 		popupDisplay.showList("The size of the list is: " + firstWords.size());
@@ -36,6 +47,25 @@ public class ArrayListController
 		}
 	}
 		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	private void showOtherLoop()
 	{
 		for(String words : firstWords)
